@@ -1,4 +1,4 @@
-# Projeto Fonte de Tensão
+# Projeto Fonte Reguladora de Tensão
 Objetivo do projeto é criar um fonte reguladora de tensão para a matéria [SSC0180 - Eletrônica](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao) para Computação da Universidade de São Paulo campus de São Carlos.
 ## Especificação
 Fonte reguladora de tensão ajustável, que receba 127V de valor eficáz e consiga emitir entre 12V-3V e uma corrente de 100mA.
