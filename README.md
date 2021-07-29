@@ -2,7 +2,7 @@
 Objetivo do projeto é criar um fonte reguladora de tensão para a matéria [SSC0180 - Eletrônica](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao) para Computação da Universidade de São Paulo campus de São Carlos.
 ## Especificação
 Fonte reguladora de tensão ajustável, que receba 127V de valor eficáz e consiga emitir entre 12V-3V e uma corrente de 100mA.
-##Lista de componentes
+## Lista de componentes
 | Quantidade      | Componente       | Preço  |
 | :-------------: |:-------------:| -----:|
 | 1 | LED Difuso 5mm Vermelho | [R$0,23](https://www.baudaeletronica.com.br/led-difuso-5mm-vermelho.html) |
@@ -15,3 +15,5 @@ Fonte reguladora de tensão ajustável, que receba 127V de valor eficáz e consi
 | 1 | Potenciômetro Linear de 10k | [R$1,61](https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html) |
 | 1 | Capacitor 560µ 35V | [R$2,90](https://shopee.com.br/CAPACITOR-ELETROL%C3%8DTICO-RADIAL-560uF-35V-105-%C2%B0C-KIT-3p%C3%A7s-i.341792361.9902590827) |
 | Total | | R$27,36 |
+## Simulação do circuito
+![alt text](https://github.com/romiyake/Projeto-Eletronica-USP/blob/main/Images/fasltad.png "Simulação realizada no Falstad")
