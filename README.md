@@ -20,6 +20,8 @@ Fonte reguladora de tensão ajustável, que receba 127V de valor eficáz e consi
 [O circuito pode ser acessado clicando aqui](https://tinyurl.com/yf9bfx3d "Falstad")
 ## Esquemático no Eagle
 ![alt text](https://github.com/romiyake/Projeto-Eletronica-USP/blob/main/Images/schematic.png)
+[.sch pode ser acessado clicando aqui](https://github.com/romiyake/Projeto-Eletronica-USP/blob/main/Eagle/Fonte.sch)
 ## PCB no Eagle
 ![alt text](https://github.com/romiyake/Projeto-Eletronica-USP/blob/main/Images/board.png)
+[.brd pode ser acessado clicando aqui](https://github.com/romiyake/Projeto-Eletronica-USP/blob/main/Eagle/Fonte.brd)
 ## Vídeo explicativo
