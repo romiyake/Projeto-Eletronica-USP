@@ -25,3 +25,4 @@ Fonte reguladora de tensão ajustável, que receba 127V de valor eficáz e consi
 ![alt text](https://github.com/romiyake/Projeto-Eletronica-USP/blob/main/Images/board.png)
 [.brd pode ser acessado clicando aqui](https://github.com/romiyake/Projeto-Eletronica-USP/blob/main/Eagle/Fonte.brd)
 ## Vídeo explicativo
+[Vídeo no youtube explicando a escolha de cada componente](https://youtu.be/Pa7L1ARfAt0)
