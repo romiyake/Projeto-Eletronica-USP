@@ -17,3 +17,9 @@ Fonte reguladora de tensão ajustável, que receba 127V de valor eficáz e consi
 | Total | | R$27,36 |
 ## Simulação do circuito
 ![alt text](https://github.com/romiyake/Projeto-Eletronica-USP/blob/main/Images/fasltad.png "Simulação realizada no Falstad")
+[O circuito pode ser acessado clicando aqui](https://tinyurl.com/yf9bfx3d "Falstad")
+## Esquemático no Eagle
+![alt text](https://github.com/romiyake/Projeto-Eletronica-USP/blob/main/Images/schematic.png)
+## PCB no Eagle
+![alt text](https://github.com/romiyake/Projeto-Eletronica-USP/blob/main/Images/board.png)
+## Vídeo explicativo
